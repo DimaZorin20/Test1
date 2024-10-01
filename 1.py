@@ -1,17 +1,3 @@
-# number = int(input("Введите число: "))
-#
-# if number % 2 == 0:
-#     print("Число четное")
-#     if number > 0:
-#         print("Число положительное")
-#     elif number < 0:
-#         print("Число отрицательное")
-#     else:
-#         print("Число равно нулю")
-# else:
-#     print("Число нечетное")
-
-
 heal = 100
 gold = 50
 
